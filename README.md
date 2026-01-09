@@ -7,5 +7,4 @@ cars-viewer-v2/
 │  └─ go.mod
 ├─ frontend/
 └─ README.md
-
 ```
